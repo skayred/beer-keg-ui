@@ -1,0 +1,4 @@
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+PyYAML==6.0
+hx711 git+https://github.com/gandalf15/HX711.git#egg=HX711&subdirectory=HX711_Python3

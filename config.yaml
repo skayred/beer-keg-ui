@@ -1,0 +1,9 @@
+sensors:
+- offset: -288343
+  ratio: 21.636875
+  dout: 21
+  sck: 20
+- offset: 468172
+  ratio: -21.7103125
+  dout: 40
+  sck: 38
